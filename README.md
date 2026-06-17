@@ -143,28 +143,6 @@ Through this repository, the main skills developed include:
 * Testing scenarios and sensitivities
 * Making data-driven financial decisions
 
-## Strategic Relevance
-
-### Economics
-
-This repository develops the ability to understand how economic variables such as inflation, interest rates, exchange rates, and growth affect companies, industries, and investment decisions.
-
-### Finance
-
-This repository builds technical finance skills, including valuation, capital budgeting, corporate finance, investment analysis, and capital market interpretation.
-
-### Technology
-
-This repository can be expanded with Excel, Python, SQL, dashboarding, and automation tools to improve financial modeling, market analysis, and data-driven decision-making.
-
-### Leadership
-
-This repository supports the development of strategic thinking, decision clarity, business judgment, and capital allocation discipline.
-
-### Mathematics
-
-This repository applies quantitative reasoning through time value of money, statistical analysis, risk-return tradeoff, forecasting, valuation models, and scenario-based decision-making.
-
 ## Future Development
 
 Future improvements for this repository include:
